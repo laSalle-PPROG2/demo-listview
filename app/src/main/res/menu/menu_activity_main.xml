@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/main_activity_menu_sort_action_button"
+        android:icon="@drawable/ai_sort"
+        android:title="Sort"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/main_activity_menu_settings_action_button"
+        android:title="Settings"
+        app:showAsAction="never"/>
+
+</menu>
